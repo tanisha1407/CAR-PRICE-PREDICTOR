@@ -52,7 +52,6 @@ Edit
 
 👩‍💻 Author
 Tanisha Jain
-Data Science Intern @ Celebal Technologies
 📧 Email: tanishaj073.com
 
 
